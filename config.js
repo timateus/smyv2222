@@ -215,10 +215,10 @@ var config = {
               <img src='./images/sci/3.3.JPG' alt='Mountains' style='width:100%'>
             </div>
             <div class='column'>
-              <img src='./images/sci/4.JPG' alt='Mountains' style='width:100%'>
+              <img src='./images/sci/4.jpg' alt='Mountains' style='width:100%'>
             </div>
             <div class='column'>
-              <img src='./images/sci/5.JPG' alt='Forest' style='width:100%'>
+              <img src='./images/sci/5.jpg' alt='Forest' style='width:100%'>
             </div>
             <div class='column'>
               <img src='./images/sci/6.JPG' alt='Mountains' style='width:100%'>
@@ -230,7 +230,7 @@ var config = {
               <img src='./images/sci/8.JPG' alt='Mountains' style='width:100%'>
             </div>
             <div class='column'>
-              <img src='./images/sci/9.JPG' alt='Mountains' style='width:100%'>
+              <img src='./images/sci/9.jpg' alt='Mountains' style='width:100%'>
             </div>
             <div class='column'>
               <img src='./images/sci/10.JPG' alt='Forest' style='width:100%'>
@@ -267,10 +267,10 @@ var config = {
             // image: './path/to/image/source.png',
             description: `<div class='row'>
             <div class='column'>
-              <img src='./images/bui/1.JPG' alt='Snow' style='width:100%'>
+              <img src='./images/bui/1.jpg' alt='Snow' style='width:100%'>
             </div>
             <div class='column'>
-              <img src='./images/bui/2.JPG' alt='Forest' style='width:100%'>
+              <img src='./images/bui/2.jpg' alt='Forest' style='width:100%'>
             </div>
             <div class='column'>
               <img src='./images/bui/3.JPG' alt='Mountains' style='width:100%'>
