@@ -7,10 +7,13 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'light',
     use3dTerrain: true,
-    title: 'Намыв 2020 Смыв 2222',
-    subtitle: 'Ноябрьский эпиурбанистический форум 2222',
-     byline: 'Инститиут традиционного жилищного строительства гуманоидов',
-    // footer: 'Source: source citations, etc.',
+    title: 'Намыв 2020 — Смыв 2222',
+    subtitle: `Ноябрьский эпиурбанистический форум 2222. 
+    Инститиут традиционного жилищного строительства гуманоидов.`,
+     byline: `
+     Алтын Мустафина, Анастасия Каминская, Анастасия Раева, Наталия Лозинская, Тимофей Носов 
+     для воркшопа Рафаэль Аквавивы в рамках Hydra.Lab`,
+    // footer: ``,
     chapters: [
         {
             id: 'slug-style-id',
@@ -113,13 +116,13 @@ var config = {
             // image: './path/to/image/source.png',
             description: `<div class='row'>
             <div class='column'>
-              <img src='./images/2100/1.JPG' alt='Snow' style='width:100%'>
+              <img src='./images/2100/1.jpg' alt='Snow' style='width:100%'>
             </div>
             <div class='column'>
-              <img src='./images/2100/2.JPG' alt='Forest' style='width:100%'>
+              <img src='./images/2100/2.jpg' alt='Forest' style='width:100%'>
             </div>
             <div class='column'>
-              <img src='./images/2100/3.JPG' alt='Mountains' style='width:100%'>
+              <img src='./images/2100/3.jpg' alt='Mountains' style='width:100%'>
             </div>
             <div class='column'>
               <img src='./images/2100/5.JPG' alt='Mountains' style='width:100%'>
